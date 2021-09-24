@@ -4,3 +4,5 @@ modifying~!!
 diff
 
 commit -a -m ""
+
+ammend practicing

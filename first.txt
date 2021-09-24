@@ -1,0 +1,6 @@
+modifying~
+modifying~!!
+
+diff
+
+commit -a -m ""
