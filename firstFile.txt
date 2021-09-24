@@ -9,4 +9,8 @@ ammend practicing
 
 merge : both modified conflict
 
+<<<<<<< HEAD
 nomerge cehcking
+=======
+nomerge check
+>>>>>>> test
