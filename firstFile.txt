@@ -8,3 +8,5 @@ commit -a -m ""
 ammend practicing
 
 merge : both modified conflict
+
+nomerge
